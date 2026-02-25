@@ -13,19 +13,19 @@ This project demonstrates core Java concepts such as:
 
 ---
 
-## 📂 Included Files
+## Included Files
 
 This repository contains the following Java source files:
 
-Expense.java
-DiscountedExpense.java
-ExpenseManagerApp.java
+- `Expense.java`
+- `DiscountedExpense.java`
+- `ExpenseManagerApp.java`
 
 These files together form the complete application.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add normal expenses  
 - Add discounted expenses  
@@ -36,12 +36,10 @@ These files together form the complete application.
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
-1. Download or clone the repository.
-2. Open a terminal inside the folder containing the `.java` files.
+1. Download or clone the repository.  
+2. Open a terminal inside the folder containing the `.java` files.  
 3. Compile the program:
    ```bash
    javac *.java
-4. Run the application:
-java ExpenseManagerApp
